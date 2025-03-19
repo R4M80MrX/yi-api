@@ -23,5 +23,4 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-data/*.json
 .env 
